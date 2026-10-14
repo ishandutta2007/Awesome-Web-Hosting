@@ -4,7 +4,7 @@
 
 # 🌐 Awesome Web Hosting & PaaS Ecosystem
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Web-Hosting/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Hosting?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Web-Hosting/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Web-Hosting?style=flat-square&logo=github&color=blue" alt="Forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Web-Hosting/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Web-Hosting?style=flat-square" alt="Issues"/></a> <a href="https://github.com/ishandutta2007/Awesome-Web-Hosting/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> <a href="https://github.com/ishandutta2007/Awesome-Web-Hosting/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Web-Hosting/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Hosting?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Web-Hosting/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Web-Hosting?style=flat-square&logo=github&color=blue" alt="Forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Web-Hosting/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Web-Hosting?style=flat-square" alt="Issues"/></a> <a href="https://github.com/ishandutta2007/Awesome-Web-Hosting/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> <a href="https://github.com/ishandutta2007/Awesome-Web-Hosting/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A comprehensively curated index of premier Cloud PaaS platforms, static deployment providers, self-hosted web servers, Docker application hosts, and Linux control panels.**
 
@@ -53,7 +53,7 @@ The table below lists the premier developer-centric SaaS hosting platforms, cate
 
 ## 🛠️ Open-Source & Self-Hosted Projects
 
-These open-source projects give you complete data sovereignty, eliminate vendor markup, and enable self-hosted cloud environments. **Sorted in descending order by GitHub Stars**:
+These open-source projects give you complete data sovereignty, eliminate vendor markup, and enable self-hosted cloud environments. **Sorted in descending order by GitHub_Stars**:
 
 - ### 1. **[Caddy](https://github.com/caddyserver/caddy)** [![Stars](https://img.shields.io/github/stars/caddyserver/caddy?style=social&color=white)](https://github.com/caddyserver/caddy/stargazers)
   > Modern, powerful, enterprise-ready HTTP/2 and HTTP/3 web server with automatic HTTPS provisioning and renewal via Let's Encrypt / ZeroSSL. Extremely fast, single-binary architecture with modular architecture written in Go. Ideal as a self-hosted reverse proxy, static file server, and API gateway.
@@ -141,7 +141,7 @@ Contributions are wholeheartedly welcome! To add a new platform, tool, or open-s
    ```
 3. **Add your entry** under the appropriate section:
    - Provide clean markdown, official documentation links, and concise feature highlights.
-   - For open-source tools, include the repository URL and social star badge.
+   - For open-source tools, include the repository URL and social Stars_Badge.
    - For SaaS tools, provide verified starting tier pricing and specific free tier limits.
 4. **Submit a Pull Request** with a brief summary of the project and why it belongs in this collection.
 
