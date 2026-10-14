@@ -1,6 +1,6 @@
 # Awesome-Web-Hosting
 
-# Top Wholesale Sales & Operations Tools Ecosystem
+## Top Wholesale Sales & Operations Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on B2B Order Management, Sales Rep Enablement & Wholesale Commerce*  
