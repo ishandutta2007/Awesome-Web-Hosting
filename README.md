@@ -2,7 +2,7 @@
 
 # Awesome-Web-Hosting
 
-# Top Web Hosting Tools Ecosystem
+## Top Web Hosting Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Static Site Deployment, Full-Stack Application Hosting & Infrastructure Management*  
